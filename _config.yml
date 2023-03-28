@@ -1,9 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Marc Nad # your name (or website title) here
+logo: "/images/myavatar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello, welcome to my website. I am excited to see you here.
+  Bonjour, bienvenue à mon site web. Je suis ravi de vous voir ici.
   <br><br>
-  Second description 
+  I am an experienced data scientist.
+  Je suis data scientist expérimenté. 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
